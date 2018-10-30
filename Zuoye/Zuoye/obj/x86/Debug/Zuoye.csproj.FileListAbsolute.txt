@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Projects\Zuoye\Zuoye\bin\Debug\Zuoye.exe
+C:\Users\Administrator\Documents\Projects\Zuoye\Zuoye\bin\Debug\Zuoye.pdb
+C:\Users\Administrator\Documents\Projects\Zuoye\Zuoye\obj\x86\Debug\Zuoye.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\Zuoye\Zuoye\obj\x86\Debug\Zuoye.exe
+C:\Users\Administrator\Documents\Projects\Zuoye\Zuoye\obj\x86\Debug\Zuoye.pdb

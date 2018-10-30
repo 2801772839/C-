@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Projects\wendao\wendao\bin\Debug\wendao.exe
+C:\Users\Administrator\Documents\Projects\wendao\wendao\bin\Debug\wendao.pdb
+C:\Users\Administrator\Documents\Projects\wendao\wendao\obj\x86\Debug\wendao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\wendao\wendao\obj\x86\Debug\wendao.exe
+C:\Users\Administrator\Documents\Projects\wendao\wendao\obj\x86\Debug\wendao.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Projects\shuzi\shuzi\bin\Debug\shuzi.exe
+C:\Users\Administrator\Documents\Projects\shuzi\shuzi\bin\Debug\shuzi.pdb
+C:\Users\Administrator\Documents\Projects\shuzi\shuzi\obj\x86\Debug\shuzi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\shuzi\shuzi\obj\x86\Debug\shuzi.exe
+C:\Users\Administrator\Documents\Projects\shuzi\shuzi\obj\x86\Debug\shuzi.pdb
